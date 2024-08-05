@@ -1,0 +1,8 @@
+{
+  "label": "encryption",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "This package is an rxdb encryption layer, a replacement for the vulnerable crypto-js dependency provided by the free version of rxDB. The package can be used outside or Pluto as its fully compatible with RXDB."
+  }
+}
