@@ -34,3 +34,12 @@ CipherWithOutput: Cipher & {
   
   
 _Defined in node_modules/@noble/ciphers/utils.d.ts:62_
+
+TODO: 
+- [ ] Need to add:
+    - [ ] Settings
+        - [ ] Member Visibility
+          - [ ] Protected
+          - [ ] Private
+          - [x] Inherited
+          - [ ] External 
