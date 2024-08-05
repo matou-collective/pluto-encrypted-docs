@@ -2,7 +2,8 @@
 sidebar_position: 1
 ---
 
-# Interface RxStorage ```<Internals, InstanceCreationOptions>```
+# RxStorage
+## Interface RxStorage ```<Internals, InstanceCreationOptions>```
 
 A RxStorage is a module that acts as a factory that can create multiple RxStorageInstance objects.
 
