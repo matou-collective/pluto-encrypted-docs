@@ -2,6 +2,7 @@
   "label": "test-suite",
   "position": 7,
   "link": {
-    "type": "generated-index"
+    "type": "generated-index",
+    "description": "A compliance test package to validate a new storage created by you or the community."
   }
 }
